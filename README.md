@@ -1,3 +1,3 @@
 # config-hibernate-exemplo
 
-Exemplo de configuração com o DB PostgreSQL com hibernate
+Exemplo de configuração do DB PostgreSQL com hibernate
