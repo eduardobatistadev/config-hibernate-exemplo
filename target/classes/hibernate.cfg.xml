@@ -5,7 +5,7 @@
     <session-factory>
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://localhost:5432/hibernate_db?useSSL=false</property>
+        <property name="connection.url">jdbc:postgresql://localhost:5432/hibernate_livraria?useSSL=false</property>
         <property name="connection.username">qintess</property>
         <property name="connection.password">123456</property>
         <!-- JDBC connection pool settings ... using built-in test pool -->

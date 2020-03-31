@@ -1,10 +1,7 @@
 package com.qintess.hibernate;
 
-
-
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-
 import com.qintess.hibernate.model.Student;
 import com.qintess.hibernate.util.HibernateUtil;
 
